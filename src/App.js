@@ -214,6 +214,8 @@ function App() {
       <button onClick={(e)=> changeColor9()}>
                   {button9}
              </button> <br/>
+
+             Player {player}'s turn
     </div>
   );
 }
